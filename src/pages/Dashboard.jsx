@@ -541,7 +541,7 @@ const Dashboard = () => {
           )}
         </div>
       </div>
-      <div style={{ marginBottom: "50px" }}>
+      <div style={{ marginBottom: "60px" }}>
         <p
           style={{
             color: "#000000",
