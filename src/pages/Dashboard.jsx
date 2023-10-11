@@ -206,7 +206,6 @@ const Dashboard = () => {
       style={{
         width: "80%",
         height: "100vh",
-        padding: "40px 0",
       }}
     >
       <div
@@ -588,6 +587,7 @@ const Dashboard = () => {
           )}
         </div>
       </div>
+      <div style={{ padding: "20px" }}></div>
     </div>
   );
 };
