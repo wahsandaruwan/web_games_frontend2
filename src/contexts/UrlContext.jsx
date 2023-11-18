@@ -7,7 +7,7 @@ const UrlContext = createContext();
 const UrlProvider = ({ children }) => {
   // Url state
   const [Urls, SetUrls] = useState({
-    baseUrl: "http://cricket.k2games.online/api/",
+    baseUrl: "https://cricket.k2games.online/api/",
   });
 
   return (
