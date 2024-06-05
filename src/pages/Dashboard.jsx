@@ -341,8 +341,8 @@ const Dashboard = () => {
               <CommonCard
                 icon="1"
                 title="DB Save Count"
-                // value={KpiStats.dbSaveCount ? KpiStats.dbSaveCount : 0}
-                value={8643}
+                value={KpiStats.dbSaveCount ? KpiStats.dbSaveCount : 0}
+                // value={8643}
               />
             </>
           )}
