@@ -294,8 +294,8 @@ const Dashboard = () => {
             <DatePicker
               value={SelectedDate}
               onChange={(date) => SetSelectedDate(date)}
-              minDate={new Date("10/10/2023")}
-              maxDate={new Date("12/20/2023")}
+              minDate={new Date("6/5/2024")}
+              maxDate={new Date("7/20/2024")}
             />
           </div>
         </div>

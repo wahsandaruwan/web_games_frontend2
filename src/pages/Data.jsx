@@ -49,7 +49,7 @@ const Data = () => {
     if (ResponseData) {
       if (HttpSuccessAction == 1) {
         window.open(
-          "https://cricket.k2games.online/downloads/all-players-cricket.xlsx",
+          "https://k2games.online/downloads/all-players-cricket.xlsx",
           "_blank"
         );
       } else if (HttpSuccessAction == 2) {
